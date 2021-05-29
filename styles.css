@@ -1,0 +1,47 @@
+body{
+  padding: 30px;
+  text-align: center;
+  font-size: 25px;
+  margin: 10px;
+
+}
+
+table{
+  margin: auto;
+}
+ul, li{
+  list-style-type: none;
+  padding-bottom:  20px;
+}
+td{
+
+  padding-bottom: 20px;
+}
+
+h1{
+  color: #150e56;
+}
+h3{
+  color: #150e56;
+  padding: 40px;
+  margin: 10px;
+}
+
+
+body{
+  background-color:#f9dfdc;
+
+}
+hr{
+  border-style: none;
+  border-top: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+  padding-bottom: 50px;
+  margin: auto;
+
+}
+.hovering:hover{
+  color: red;
+}
